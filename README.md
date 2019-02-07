@@ -7,5 +7,5 @@ El enunciado del ejercicio está [aquí](ejercicio_crud_2019.pdf)
 * Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
 
 Sevilla Ruiz, Borja - Base de Datos de Videojuegos
-* Aragón Rodríguez, Rafael - Películas y series que quiero ver (https://github.com/rafaelaragon/CRUD)
+* Aragón Rodríguez, Rafael - Películas y series que quiero ver [aquí](https://github.com/rafaelaragon/CRUD)
 * Pérez Molina, Iván - [GlobalCampo](https://github.com/ivanperezmolina/GlobalCampo)
