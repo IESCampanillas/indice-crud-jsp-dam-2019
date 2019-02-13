@@ -20,4 +20,4 @@ Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
 * Pacheco Matas, Rubén - [Control de Fronteras / ALPHA Project](https://github.com/rubenpachecomatas/Control-de-Fronteras-ALPHA-Project)
 * Torres Barba, Pedro - [Preparación de rallies / PureRally](https://github.com/torrespedrob/PureRally)
 * Jiménez Quintana, Jose Daniel - [Taller de coches](https://github.com/danieljimenezquintana/Taller-de-coches)
-
+* Gómez Martín, Jose María - [Control de cuadros y exposiciones](https://github.com/josemariagomez/Control-de-cuadros-y-exposiciones)
