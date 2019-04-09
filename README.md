@@ -23,6 +23,6 @@ Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
 * Pérez Molina, Iván - [GlobalCampo](https://github.com/ivanperezmolina/GlobalCampo)
 * Robles Bastidas, José - [PaperManager](https://github.com/Jose-Robles/PaperManager)
 * Sevilla Ruiz, Borja - [Videojuegos](https://github.com/bsevrui/CRUD)
-* Torres Barba, Pedro - [Preparación de rallies / PureRally](https://github.com/torrespedrob/PureRally)
+* Torres Barba, Pedro - [Preparación de rallies / PureRally](https://github.com/torrespedrob/PureRally-2.0)
 
 
